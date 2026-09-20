@@ -1,0 +1,5 @@
+dvf:
+  department: "63"
+  years:
+    - 2025
+  url_template: "https://files.data.gouv.fr/geo-dvf/latest/csv/{year}/departements/{department}.csv.gz"
